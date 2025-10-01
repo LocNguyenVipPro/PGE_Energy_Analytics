@@ -38,8 +38,8 @@ Evaluating performance using metrics such as MAE, MSE, and MAPE. The final model
 1. Clone the Repository:
 
 ```
-git clone https://github.com/vohuynhquangnguyen/2025-PGE-Energy-Analytics.git
-cd 2025-PGE-Energy-Analytics
+git clone https://github.com/LocNguyenVipPro/PGE_Energy_Analytics.git
+cd PGE_Energy_Analytics
 ```
 
 2. Set Up a Virtual Environment (optional but recommended):
@@ -80,6 +80,3 @@ The XGBoost algorithm is employed due to its ability to model non-linear relatio
 
 * **Validation**:
 Model performance is evaluated using metrics such as MAE, MSE, and MAPE, ensuring the forecasts are both accurate and robust.
-
-## License
-The project is licensed under the MIT License.
