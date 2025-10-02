@@ -17,7 +17,6 @@ Evaluating performance using metrics such as MAE, MSE, and MAPE. The final model
 
 ```
 .
-├── LICENSE
 ├── README.md
 ├── datasets
 │   ├── results.xlsx
